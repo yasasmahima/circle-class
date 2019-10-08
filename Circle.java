@@ -1,6 +1,6 @@
 public class Circle {
     private double radious;
-    public int count;//count for calculate no of objects
+    private static int count;//count for calculate no of objects
 
     public Circle() {
         super();
